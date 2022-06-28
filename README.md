@@ -3,6 +3,14 @@
 ## Report
 ## HTML report generate using  Jmeter
 
+- #### Using Non GUI Mode:
+
+- #### 1) Open cmd and navigate to bin folder
+
+- #### 2) For Windows, run the command
+
+- #### 3) jmeter -n -t Dmoneyapitestingjmeter.jmx -l Dmoneyapitestingjmeter.csv -e -o Reports
+
 ### For 60s, 300s and 600s load, add JMeter UI screenshot and for 900s generate html report and the screenshot given below.
 ### Using GUI mode
 #### 1) 60 Seconds for  167 Users – 0.00% fail and 100% pass
